@@ -15,8 +15,7 @@
 <br>
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=caliaksh)](https://solved.ac/caliaksh/)-->
-![calia07's github stats](https://github-readme-stats.vercel.app/api?username=calia07&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calia07&layout=compact)
+![calia07's github stats](https://github-readme-stats.vercel.app/api?username=calia07&show_icons=true)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calia07&layout=compact)
 <!--
 **calia07/calia07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
