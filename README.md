@@ -1,4 +1,6 @@
-## Hello  I'm Calia
+<p aligh="center">
+
+# Hello  I'm Calia
 
 ## My tech skills 
 
@@ -8,8 +10,9 @@
 
 ## 🌱 I’m currently learning about...
 <img src="https://img.shields.io/badge/Node.js-skyblue?style=flat&logo=Node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/React-magenta?style=flat&logo=React&logoColor=61DAFB" />
+</p>
 
-<hr>
+<br>
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=caliaksh)](https://solved.ac/caliaksh/)-->
 ![calia07's github stats](https://github-readme-stats.vercel.app/api?username=calia07&show_icons=true)
