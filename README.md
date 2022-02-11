@@ -9,7 +9,8 @@
 <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=Unity&logoColor=FFFFFF" /> 
 
 ## 🌱 I’m currently learning about...
-<img src="https://img.shields.io/badge/Node.js-skyblue?style=flat&logo=Node.js&logoColor=339933" /> <img src="https://img.shields.io/badge/React-magenta?style=flat&logo=React&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-skyblue?style=flat&logo=Node.js&logoColor=339933" /> 
+ <!-- <img src="https://img.shields.io/badge/React-magenta?style=flat&logo=React&logoColor=61DAFB" />-->
 </div>
 
 <br>
